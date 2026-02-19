@@ -1,0 +1,13 @@
+# Ignorar carpetas de sistema de Windows
+AppData/
+*.blb
+*.bin
+*.cache
+
+# Ignorar archivos de Python temporales
+__pycache__/
+*.pyc
+
+# Ignorar datos grandes o temporales
+*.log
+*.tmp

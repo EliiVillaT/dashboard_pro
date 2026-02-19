@@ -1,0 +1,26 @@
+# Ignorar carpetas de sistema de Windows
+AppData/
+*.blb
+*.bin
+*.cache
+*.log
+*.tmp
+
+# Archivos de Python temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+*.egg-info/
+
+# Archivos de Streamlit
+.streamlit/
+
+# Archivos de datos grandes (opcional, si los tienes)
+*.csv
+*.xlsx
+*.json
